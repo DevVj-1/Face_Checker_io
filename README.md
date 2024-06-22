@@ -16,15 +16,22 @@ Project: https://github.com/DevVj-1/Face_Checker.io
 FACE CHECKER.IO v1.0 
 
 # How to Install Face_Checker.io on Windows 🎭:
-	Run setup.bat file or Install Manually  
+Run setup.bat file or Install Manually  
 ![setstssdf](https://github.com/DevVj-1/Face_Checker.io/assets/106962581/c75604c5-db61-49dc-a25f-9521fdb3cedd)
 ```
 ./setup.bat
 ```
-if it takes too much time to install boost_1_82_0.zip with setup.bat. Then you can manually install boost_1_82_0 (Requirement) file from website. 
+If it takes too much time to install boost_1_82_0.zip with setup.bat. Then you can manually install boost_1_82_0 (Requirement) file from website. 
 ```
 https://www.boost.org/users/history/version_1_82_0.html
 ```
+Extract boost_1_82_0.zip file.
+```
+cd boost_1_82_0
+```
+Run the Boost bootstrap.bat file
+.\bootstrap.bat
+
 Manually install requirements.txt
 ```
 pip install -r requirements.txt
