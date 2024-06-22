@@ -1,0 +1,23 @@
+# Run this command on your terminal to install requirements.txt           
+
+#pip install -r requirements.txt
+
+
+# Image processing library
+Pillow
+
+# Scientific computing library
+numpy
+
+# HTTP library for Python
+requests
+
+# OpenCV library for image processing
+opencv-python
+
+# Face recognition library and its dependencies
+
+cmake
+dlib
+face-recognition
+deepface
