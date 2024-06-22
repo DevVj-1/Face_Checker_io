@@ -10,7 +10,7 @@ Gmail: devvijay7113@gmail.com
 LinkedIn: https://www.linkedin.com/in/dev-vj1/
 ![image_10](https://github.com/DevVj-1/Face_Checker.io/assets/106962581/6de4421a-4347-4415-a323-7e9d3be5eb53)
 
-Project: https://github.com/DevVj-1/Face_Checker.io
+Project: https://github.com/DevVj-1/Face_Checker_io
 
 ![image_4](https://github.com/DevVj-1/Face_Checker.io/assets/106962581/5a1ddf10-6c34-4406-a64d-208afeca1812)
 FACE CHECKER.IO v1.0 
