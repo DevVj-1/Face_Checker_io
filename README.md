@@ -46,6 +46,6 @@ python .\face_comparison_tool.py
 ![_126376289__126318055_newproject-1](https://github.com/DevVj-1/Face_Checker.io/assets/106962581/50dda948-f510-4063-9d33-7b5bc4631d1e)
 
 ### 3.	This tool allows users to operate offline on their systems, ensuring the privacy of investigative data, especially when searching for missing persons. Users can conduct investigations without needing to share evidence such as CCTV footage images related to missing persons with third-party web services, thereby maintaining confidentiality.
-![Screenshot 2024-06-22 101511](https://github.com/DevVj-1/Face_Checker.io/assets/106962581/684869b3-b7d7-41e1-828d-f5ad07895014)
+![logo-removebg-preview](https://github.com/DevVj-1/Face_Checker.io/assets/106962581/56d744e0-a2e8-4730-8c0f-2f0def77c812)
 
 Image Link : https://news.wttw.com/sites/default/files/styles/full/public/article/image-non-gallery/KingWalker_DiamondBynum_Submitted.jpg?itok=l0nvyKDl for URL search testing…
