@@ -34,3 +34,18 @@ python .\face_comparison_tool.py
 ![CCTV](https://github.com/DevVj-1/Face_Checker.io/assets/106962581/fc15d493-8db7-446d-b160-bee321eb9df0)
 
 
+# Why do we need Face_checker.io ?
+![Screenshot 2024-06-22 101511](https://github.com/DevVj-1/Face_Checker.io/assets/106962581/b73abaf0-8362-48c1-9dbb-d5a7707f306c)
+
+### 1.	This tool can be used to check missing people by comparing their last known face with evidence images, such as CCTV footage screenshots or images from any other source online
+*Quality of the CCTV footage could impact the result!
+![missing-person-on-CCTV](https://github.com/DevVj-1/Face_Checker.io/assets/106962581/8ca56b40-2ccb-489e-83fe-7880ce5faff3)
+
+### 2.	This tool checks the person's unique facial features, such as the shape of the nose, eyes, and other distinctive characteristics, compare persons face. This capability allows the tool to find a person even if they have aged or their appearance has changed since the last available image of them.
+
+![_126376289__126318055_newproject-1](https://github.com/DevVj-1/Face_Checker.io/assets/106962581/50dda948-f510-4063-9d33-7b5bc4631d1e)
+
+### 3.	This tool allows users to operate offline on their systems, ensuring the privacy of investigative data, especially when searching for missing persons. Users can conduct investigations without needing to share evidence such as CCTV footage images related to missing persons with third-party web services, thereby maintaining confidentiality.
+![Screenshot 2024-06-22 101511](https://github.com/DevVj-1/Face_Checker.io/assets/106962581/684869b3-b7d7-41e1-828d-f5ad07895014)
+
+Image Link : https://news.wttw.com/sites/default/files/styles/full/public/article/image-non-gallery/KingWalker_DiamondBynum_Submitted.jpg?itok=l0nvyKDl for URL search testing…
