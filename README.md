@@ -21,6 +21,14 @@ FACE CHECKER.IO v1.0
 ```
 ./setup.bat
 ```
+if it takes too much time to install boost_1_82_0.zip with setup.bat. Then you can manually install boost_1_82_0 (Requirement) file from website. 
+```
+https://www.boost.org/users/history/version_1_82_0.html
+```
+Manually install requirements.txt
+```
+pip install -r requirements.txt
+```
 	Open your terminal and run this commands
 ```
 python .\GUI.py
