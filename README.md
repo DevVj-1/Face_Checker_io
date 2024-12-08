@@ -66,3 +66,38 @@ python .\face_comparison_tool.py
 ![logo-removebg-preview](https://github.com/DevVj-1/Face_Checker.io/assets/106962581/56d744e0-a2e8-4730-8c0f-2f0def77c812)
 
 Image Link : https://news.wttw.com/sites/default/files/styles/full/public/article/image-non-gallery/KingWalker_DiamondBynum_Submitted.jpg?itok=l0nvyKDl for URL search testing…
+
+
+# Project Description:
+Face_checker.io is a tool designed to compare two images and analyze their unique facial features to determine if they belong to the same individual, even if the images depict the person at different ages.
+
+# Problem Statement Addressed:
+In many cases of missing persons or disaster recovery, time can significantly alter appearances, making manual identification difficult. This tool utilizes advanced facial recognition to bridge the gap, aiding law enforcement and humanitarian agencies in locating individuals.
+
+# Key Features to Highlight:
+
+1) Advanced Facial Recognition:
+
+* High accuracy in comparing aged or altered photos for reliable results.
+
+2) Missing Persons Identification:
+
+* Designed to assist in reuniting families and solving cold cases by matching current images with older photographs.
+
+3) Privacy-Oriented:
+* Ensures secure and ethical handling of all uploaded images to prioritize user trust.
+
+# Use Cases for Public Safety:
+
+1) Locating Missing Individuals:
+
+* Aid law enforcement agencies in comparing aged photos of missing people with recent surveillance or recovered images.
+
+2) Disaster Victim Identification (DVI):
+
+* In disaster recovery efforts, compare available pre-disaster images with unidentified victims to aid identification.
+
+3) Reuniting Families:
+
+* Help NGOs and agencies identify separated children or family members in humanitarian crises.
+
