@@ -1,8 +1,7 @@
 # Face_Checker.io
 DESCRIPTION Face_checker.io allows users to upload two images and analyses their unique facial features to compare individuals, even if their faces have aged. Utilizing advanced facial recognition technology, it ensures accurate identification and comparison of faces  
-by Dev Vijay CW-129
 
-🟥 YouTube Video 🎥 Tutorial: https://youtu.be/JoNuihOdBnw
+<!-- 🟥 YouTube Video 🎥 Tutorial: https://youtu.be/JoNuihOdBnwm-->
 
 ![rwrerwet](https://github.com/DevVj-1/Face_Checker.io/assets/106962581/e5b58869-c5eb-49ad-a34b-4027db088adc)
 
